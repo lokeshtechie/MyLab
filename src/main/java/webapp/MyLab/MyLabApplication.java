@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 #lokesh Sahoo
 public class MyLabApplication {
-        #lokesh 
+        // lokesh 
 	public static void main(String[] args) {
 		SpringApplication.run(MyLabApplication.class, args);
 	}
